@@ -1,6 +1,5 @@
 ## Devcloud_Automation
-Accessing [Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html) nodes without knowing any qsub commands for beginners.
-
+Accessing [Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html) nodes without knowing any qsub commands for beginners. With this we can get full information about nodes available in DevCloud, and also we can check for similar available nodes. 
 ## Verified Environment:
 [Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html)
 
