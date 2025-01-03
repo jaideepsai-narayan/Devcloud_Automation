@@ -6,7 +6,8 @@ Accessing [Devcloud](https://www.intel.com/content/www/us/en/developer/tools/dev
 
 ### Environment Setup:
 just Include the python [devcloud.py](https://github.com/jaideepsai-narayan/Devcloud_Automation/blob/main/devcloud.py) script in bashrc
-![image (3)](https://github.com/user-attachments/assets/ceb9d776-9277-463a-8083-7258d6352b9a)
+![image ](https://github.com/user-attachments/assets/6a5b9f59-5f07-46f8-b127-0af6808899f7)
+
 
 
 
